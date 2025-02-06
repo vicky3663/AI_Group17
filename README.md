@@ -26,6 +26,7 @@ fashion-mnist-classifier/
 │   ├── index.html                 # Upload form
 │   └── result.html                # Prediction result
 │── static/                        # Static files (CSS, JS, images)
+    ├── style.css    
 │── requirements.txt               # Dependencies
 │── Dockerfile                     # Docker configuration (not fully working)
 │── README.md                      # Project documentation
