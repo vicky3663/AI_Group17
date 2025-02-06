@@ -1,8 +1,6 @@
 # AI_Group17
 
-Got it! Since you tested the model using Flask's UI locally and attempted Docker deployment, I'll adjust the **README** to reflect your actual workflow. Here’s the updated version:
 
----
 
 # **Fashion-MNIST Image Classification with Flask & Docker Deployment**
 🚀 **A deep learning-based image classification system using CNN and Flask, with an attempt to deploy using Docker.**  
@@ -140,4 +138,3 @@ This project is open-source under the **MIT License**.
 ✅ Improve UI for better user experience  
 ✅ Optimize model performance  
 
-Would you like help troubleshooting the **Docker issue**? 🚀🐳
