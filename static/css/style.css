@@ -8,7 +8,7 @@ body {
   .container {
     width: 400px;
     margin: 100px auto;
-    background: #fff;
+    background: #8577cf;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -16,7 +16,7 @@ body {
   
   h1 {
     text-align: center;
-    color: #333;
+    color: #080808;
   }
   
   form {
@@ -36,7 +36,7 @@ body {
   button {
     padding: 10px;
     font-size: 16px;
-    background: #333;
+    background: #2318b8;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -44,14 +44,14 @@ body {
   }
   
   button:hover {
-    background: #555;
+    background: #0d0d0e;
   }
   
   a {
     display: block;
     margin-top: 20px;
     text-align: center;
-    color: #333;
+    color: #131212;
     text-decoration: none;
   }
   
